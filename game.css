@@ -1,0 +1,34 @@
+.contain{
+    text-align:center;
+    list-style-type: none;
+}
+    #gameboard {
+        display: flex;
+        justify-content: center;
+    }
+    #Rules {
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow',
+        list-style-type: none;
+    }
+    td{
+        height: 100px;
+        width: 100px;
+    }
+    body{
+         .container {
+            text-align: center;
+            list-style-type: none;
+        }
+        background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7801969/cherry-petals-clipart-md.png);
+    }
+.emoji{
+    font-size: 90px;
+}
+
+    /* #gameboard:hover{
+    display: flex;
+    text-align: center;
+    color:blueviolet;
+    justify-content: center;
+    } */
